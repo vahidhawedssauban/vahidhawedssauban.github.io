@@ -273,8 +273,8 @@ if($('#heart_countdown').length > 0) {
   $('#heart_countdown').countDown({
     targetDate: {
       'day':    12,
-      'month':  3,
-      'year':   2018,
+      'month':  9,
+      'year':   2019,
       'hour':   11,
       'min':    13,
       'sec':    0

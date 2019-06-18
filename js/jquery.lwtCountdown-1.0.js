@@ -26,6 +26,8 @@
 
 	$.fn.countDown = function (options) {
 
+		console.log(options);
+
 		config = {};
 
 		$.extend(config, options);
