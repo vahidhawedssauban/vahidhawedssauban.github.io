@@ -272,8 +272,8 @@ if($('.wow').length > 0) {
 if($('#heart_countdown').length > 0) {
   $('#heart_countdown').countDown({
     targetDate: {
-      'day':    12,
-      'month':  9,
+      'day':    8,
+      'month':  12,
       'year':   2019,
       'hour':   11,
       'min':    13,
